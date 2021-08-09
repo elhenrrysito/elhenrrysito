@@ -1,8 +1,7 @@
 ### Hi there 👋, Hola! I'm Henrry
 #### I'm a Java Developer
-![I'm a Java Developer]
+![I'm a Java Developer](https://github.com/elhenrrysito/elhenrrysito/blob/main/pngegg.png)
 
-(https://www.linkedin.com/in/https://www.linkedin.com/in/henrry-mejia//)  
 
 Skills: JAVA / SPRING / MYSQL / PostgreSQL / CSS / Bootstrap
 
