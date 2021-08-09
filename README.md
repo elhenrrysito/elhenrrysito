@@ -10,9 +10,7 @@ Skills: JAVA / SPRING / SPRING BOOT / MYSQL / PostgreSQL / CSS / Bootstrap
 - 💬 Ask me about Spring and Java 
 - 😄 Pronouns: He/His 
 
-
-- Linkedin: 
-<br/>
+Linkedin: <br>
 [<img src='https://github.com/elhenrrysito/elhenrrysito/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/henrry-mejia//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elhenrrysito&show_icons=true)  
